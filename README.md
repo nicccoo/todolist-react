@@ -1,6 +1,6 @@
 ## Aplicacion de tareas simple, proyecto de mediados de 2020, cuando comenzaba con React
 
-![Screenshot](todo.png)
+<img src="src/img/todo.png" alt="My cool logo"/>
 
 ### Getting Started with Create React App
 
