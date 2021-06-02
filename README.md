@@ -1,3 +1,6 @@
+## Aplicacion de tareas simple, proyecto de mediados de 2020, cuando comenzaba con React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
