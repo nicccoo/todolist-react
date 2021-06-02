@@ -1,6 +1,6 @@
 ## Aplicacion de tareas simple, proyecto de mediados de 2020, cuando comenzaba con React
 
-![alt text](https://gyazo.com/efa60b4b423ee8565452396d0c35e897)
+![Screenshot](todo.png)
 
 ### Getting Started with Create React App
 
