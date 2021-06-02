@@ -1,7 +1,8 @@
 ## Aplicacion de tareas simple, proyecto de mediados de 2020, cuando comenzaba con React
 
+![alt text](https://gyazo.com/efa60b4b423ee8565452396d0c35e897)
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
